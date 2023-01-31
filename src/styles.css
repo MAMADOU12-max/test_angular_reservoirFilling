@@ -1,1 +1,22 @@
 /* You can add global styles to this file, and also import other style files */
+@import "~bootstrap/dist/css/bootstrap.css";
+
+.meanColor { 
+    background-color:#1B1E27;
+}
+
+.primaryColor { 
+    Color: #0089FF;
+}
+
+.primaryBackground { 
+    background-color: #0089FF;
+}
+
+/* .grayColor { 
+    Color: #303549;
+}
+
+.grayBackground { 
+    background-color: #303549;
+} */

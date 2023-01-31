@@ -1,0 +1,38 @@
+/* .container { margin-top: 10px; } */
+
+.progress-bar-vertical {
+  width: 90%;
+  min-height: 200px;
+  display: flex;
+  align-items: flex-end;
+  /* margin-right: 20px;  */
+ /* float: left; */
+}
+
+.progress-bar-vertical .progress-bar {
+  width: 100%;
+  height: 0;
+  -webkit-transition: height 0.6s ease;
+  -o-transition: height 0.6s ease;
+  transition: height 0.6s ease;
+}
+
+
+
+.good{
+    background-color:green;
+}
+
+.warn{
+    background-color:red;
+}
+
+
+
+.grayColor { 
+    Color: #303549;
+}
+
+.grayBackground { 
+    background-color: #303549;
+}
